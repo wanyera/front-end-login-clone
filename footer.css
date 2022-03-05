@@ -1,0 +1,59 @@
+.footer {
+    background-color:#111 ;
+    display: flex;
+    font-size: 18px;
+   
+}
+
+.footer a {
+    text-decoration: none;
+    text-align: center;
+    
+    padding: 4px 4px;
+    display: inline-block;
+
+    
+}
+
+.nav {
+    padding-left: 6%;
+    color: grey;
+}
+
+.nav a {
+    
+    color: grey;
+}
+
+
+.nav a:hover {
+    color: white;
+}
+
+.links {
+    display: flex;
+    background-color: #111;
+    color: gray;
+    text-align: right;
+}
+
+.links a {
+    color: #c02d28;
+    text-decoration: none;
+}
+
+.copyright {
+    padding-left: 35%;
+}
+
+.p {
+    padding-left: 2%;
+}
+
+.img {
+    margin-bottom: 20px;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}

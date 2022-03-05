@@ -1,0 +1,67 @@
+body {
+    font-family: Open Sans,sans-serif;
+   
+    line-height: 1,5;
+    margin: 0;
+   
+}
+
+.header {
+    background: maroon;
+    display: flex;
+}
+
+.navigation li {
+    display: inline;
+    font-size: 18px;
+}
+
+.navigation {
+    padding-left: 48%;
+}
+
+.navigation a {
+    text-decoration: none;
+    text-align: center;
+    color: grey;
+    padding: 4px 4px;
+}
+
+.navigation a:hover {
+    color: white;
+}
+
+.join {
+    background-color: #c02d28 ;
+    border-radius: 45%;
+
+    padding: 32px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  
+}
+
+.join li {
+    color: white;
+}
+
+.title {
+-webkit-text-size-adjust: 100%;
+tab-size: 4;
+box-sizing: border-box;
+border: 0;
+color: transparent;
+font: 0/0 a;
+text-shadow: none;
+background-size: 100%;
+background-image: url(https://static.frontendmasters.com/assets/fm/js/static/frontendmasters.e1e10b58c1.svg);
+display: block;
+height: 40px;
+margin-top: 5px;
+margin-left: 28px;
+width: 250px;
+
+}
+
